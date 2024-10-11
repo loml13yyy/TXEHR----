@@ -52,7 +52,7 @@ def startwith():
     # 修改横幅信息
     print(logo)
     print("同享TXEHR V15人力管理管理平台hdlUploadFile存在任意文件上传漏洞检测工具")
-
+    print("writen by loml13yyy")
 
 if __name__ == '__main__':
     startwith()
